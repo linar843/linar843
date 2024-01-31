@@ -2,7 +2,6 @@
 - 👀 I’m interested in all in CS
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me linar@ya.ru
 - 😄 Pronouns: Linar)
 - ⚡ Fun fact: Lego fan)
 
